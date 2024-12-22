@@ -13,6 +13,8 @@ Screen 2:
 <img src= "https://github.com/DilukChamika/DayViewer-Kotlin/assets/103917677/9ae9d667-4df6-470f-ba03-5c7273ef8dd0" width="400px">
 
 This simple android application is written using the Kotlin programming language.
+<br>
+</br>
 <ht>
 AUTHOR:
        SARAVANAKUMAR R
